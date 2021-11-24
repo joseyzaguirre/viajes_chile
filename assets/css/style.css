@@ -6,10 +6,12 @@
     background-color: #339ba6;
     text-align: left;
 }
+.texto1 p {
+    text-align: left;
+}
 .card .texto2 {
     background-color: #339ba6;
     text-align: left;
-    padding: 1rem;
 }
 footer {
     background-color: #339ba6;
@@ -21,4 +23,7 @@ footer {
 }
 .footerviajes {
     padding-left: 12rem;
+}
+.fas {
+    background-color: #339ba6 !important
 }
