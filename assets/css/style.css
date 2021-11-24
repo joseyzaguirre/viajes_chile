@@ -1,4 +1,24 @@
-.seccion1 {
+.secciones {
     background-color: black;
     color: white;
+}
+.card .card-body {
+    background-color: #339ba6;
+    text-align: left;
+}
+.card .texto2 {
+    background-color: #339ba6;
+    text-align: left;
+    padding: 1rem;
+}
+footer {
+    background-color: #339ba6;
+    color: white;
+}
+.iconos {
+    text-align: right;
+    padding-right: 12rem;
+}
+.footerviajes {
+    padding-left: 12rem;
 }
